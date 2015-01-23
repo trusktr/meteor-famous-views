@@ -1,6 +1,6 @@
 Package.describe({
-  name: "gadicohen:famous-views",
-  summary: 'Blaze Views for Famous; doing Famous Meteor-style',
+  name: "famousjs:views",
+  summary: 'Blaze views for Famous.',
   version: "0.1.18",
   git: "https://github.com/gadicc/meteor-famous-views.git"
 });
